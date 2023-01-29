@@ -1,2 +1,2 @@
 # PYTHON-BASIC
-python basic ode written by iqbal
+python basic code written by iqbal
