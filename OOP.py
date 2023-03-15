@@ -1,12 +1,11 @@
 class Person:
-    def __init__(self, name, age):
+    def __init__(self, name, age, gender):
         self.name = name
         self.age = age
-        self.male = male
-        self.female = female
+        self.gender = gender
 
     def introduce(self):
-        print("Hello, my name is", self.name, "and I am", self.age, "years old, ", self.male, "and my pronounce is he/him ", self.female, "and my pronounce is she/her")
+        print("Hello, my name is", self.name, "and I am", self.age, "years old ", self.gender)
 
-person1 = Person("John", 30, )
+person1 = Person("John", 30, "male" )
 person1.introduce()
