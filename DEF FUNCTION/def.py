@@ -1,6 +1,8 @@
-def greet(name):
-    """This function takes a name as an argument and prints a greeting."""
-    print(f"Hello, {name}!")
+def square(x):
+    return x * x
 
-# Call the function
-greet("Alice")
+result = square(3)
+print("The square of 3 is:", result)
+user_input = input("Type something: ")
+print("You typed:", user_input)
+
