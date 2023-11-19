@@ -1,2 +1,2 @@
 # PYTHON-BASIC
-python basic code written by iqbal
+python code written by iqbal
